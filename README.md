@@ -2,6 +2,7 @@
 Proyecto de realidad aumentada para android sobre un portal
 
 Gameobject que debemos usar
+
 ![image](https://user-images.githubusercontent.com/66282767/156300788-372e3088-42e3-4840-ab55-77e74c12753f.png)
 
 
