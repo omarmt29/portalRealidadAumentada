@@ -1,5 +1,5 @@
 # Portal-Realidad-Aumentada-
-Proyecto de realidad aumentada para android sobre un portal
+Proyecto de realidad aumentada para android sobre un portal C#
 
 Gameobject que debemos usar
 
